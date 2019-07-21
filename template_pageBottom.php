@@ -1,0 +1,1 @@
+<div id="pageBottom">&copy;2018 piniti</div>
